@@ -23,11 +23,7 @@ In this project I have used Machine Learning algorithms and various other algori
 ## API Credit
 All the images and data used in project is taken from 
 https://developers.themoviedb.org/3/getting-started/introduction
-## Demo
 
-Video Demo Here
-
-https://youtu.be/JMEGCJxRwDo
 ## Run Locally
 
 Clone the project
@@ -79,15 +75,14 @@ npm start
 ```
 ## Authors
 
-- [@AnuragRoshan](https://github.com/AnuragRoshan)
+- [@AnandNarayanJha](https://github.com/ANAND-NARAYAN-JHA)
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at anuragraushan373@gmail.com
+If you have any feedback, please reach out to us at anandnarayanjha21@gmail.com
 
 ## Landing Page
-![mvrs6](https://user-images.githubusercontent.com/68966298/178826347-b572b3e7-d903-4b08-ac6b-0a5009143ade.JPG)
 ![mvrs7](https://user-images.githubusercontent.com/68966298/178826403-54dba2ac-dc64-480f-8cd9-259232d8e307.JPG)
 
 ## Home Page
