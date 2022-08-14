@@ -82,9 +82,6 @@ npm start
 
 If you have any feedback, please reach out to us at anandnarayanjha21@gmail.com
 
-## Landing Page
-![mvrs7](https://user-images.githubusercontent.com/68966298/178826403-54dba2ac-dc64-480f-8cd9-259232d8e307.JPG)
-
 ## Home Page
 ![mvrse1](https://user-images.githubusercontent.com/68966298/178826468-28b970b4-1051-4f01-a1b7-57841af3a7b7.JPG)
 
