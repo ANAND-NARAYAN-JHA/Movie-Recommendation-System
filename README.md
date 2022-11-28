@@ -29,7 +29,7 @@ https://developers.themoviedb.org/3/getting-started/introduction
 Clone the project
 
 ```bash
-  git clone https://github.com/AnuragRoshan/RecomSystem.git
+  git clone https://github.com/ANAND-NARAYAN-JHA/Movie-Recommendation-System
 ```
 
 Install Python Libraries
