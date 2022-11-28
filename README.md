@@ -1,12 +1,9 @@
 
-In this project I have used Machine Learning algorithms and various other algorithms to implement movie recommendation system .
-
-
 ## Tech Stack
 
-**Client:** React, Redux, Material UI
+**Client:** React, Material UI
 
-**Server:** Node, Express , Passport JS , Flask , JupyterNotebook
+**Server:** Node, Express , Passport JS , Flask 
 
 
 ## Features
